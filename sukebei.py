@@ -11,7 +11,7 @@ class sukebei(object):
                             'books': '4_',
                             'pictures': '1_',
                             'games': '1_3',
-                            'real life': '2_2'}
+                            'reallife': '2_2'}
     engine_url='sukebei'
     def __init__(self):
         pass
