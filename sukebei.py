@@ -10,7 +10,8 @@ class sukebei(object):
                             'anime': '1_1',
                             'books': '4_',
                             'pictures': '1_',
-                            'games': '1_3'}
+                            'games': '1_3',
+                            'real life': '2_2'}
     engine_url='sukebei'
     def __init__(self):
         pass
