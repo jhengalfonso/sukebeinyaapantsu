@@ -5,9 +5,12 @@ from novaprinter import prettyPrinter
 import json
 class sukebei(object):
     url = 'https://sukebei.nyaa.net'
-    name = 'sukebeinyaa'
+    name = 'sukebei'
     supported_categories = {'all': '_',
-                            'real': '2_'}
+                            'anime': '1_1',
+                            'books': '4_',
+                            'pictures': '1_',
+                            'games': '1_3'}
     engine_url='sukebei'
     def __init__(self):
         pass
