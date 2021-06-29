@@ -5,7 +5,7 @@ from novaprinter import prettyPrinter
 import json
 class sukebei(object):
     url = 'https://sukebei.nyaa.si'
-    name = 'sukebei'
+    name = 'sukebeisi'
     supported_categories = {'all': '_',
                             'anime': '1_1',
                             'books': '4_',
